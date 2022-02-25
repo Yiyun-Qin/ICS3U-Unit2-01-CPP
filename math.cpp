@@ -2,7 +2,7 @@
 //
 // Created by Yiyun Qin
 // Created at February 2022
-// This is a "Hello World" program with proper style
+// This is a math program with proper style
 
 #include <iostream>
 #include <cmath>
